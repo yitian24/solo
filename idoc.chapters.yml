@@ -1,21 +1,8 @@
-- ChatGPT: Prompt Engineering
-- ChatGPT/prompt.md: Prompts
+- 英语: English Practice
+- 英语/写作/d1.md: day 1
 
-- Bookmark: Bookmark Management
-- Bookmark/bookmark.md: Bookmark
+- 深度学习： Deep Learning
+- 深度学习/transformer.md: Transformer
 
-- Algorithm: Algorithms
-- Algorithm/template.md: Template
-
-- Docker: Docker
-- Docker/docker.md: Docker Basics
-
-- Git: Git
-- Git/git.md: Git Basics
-
-- AIGC: AI Generated Content
-- AIGC/stable-diffusion.md: Stable Diffusion
-
-- QAQ: GPT-5 Thinking
-- QAQ/DeepLearning-Path.md: Learning Path
-- QAQ/biyan.md: Rhinitis
+- 其他： Others
+- 其他/blog.md: blog
